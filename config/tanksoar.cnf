@@ -1,0 +1,6 @@
+general.game = "tanksoar";
+general.map = "/Users/viktor/Downloads/SoarTutorial_9.4.0-OSX/config/maps/tanksoar/default.txt";
+#players.active_players = [ "tank1", "tank2" ];
+#players.tank1.productions = "soar2d/agents/tanksoar/obscure-bot.soar";
+#players.tank2.productions = "soar2d/agents/tanksoar/obscure-bot.soar";
+terminals.winning_score = 50;

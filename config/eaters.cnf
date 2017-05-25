@@ -1,0 +1,5 @@
+general.game = "eaters";
+general.map = "/Users/viktor/Downloads/SoarTutorial_9.4.0-OSX/config/maps/eaters/random-walls.txt";
+#players.active_players = [ "eater" ];
+#players.eater.productions = "/agents/eaters/tutorial/advanced-move.soar";
+terminals.food_remaining = true;
